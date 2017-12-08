@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.4.1 - mergeup testing heading from master]
+
+### Changed
+- [mergeup testing: this is an entry from the master branch]
+
 ## [1.4.0]
 
 ### Changed
@@ -27,6 +32,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 - Made Leatherman.curl's download_file response accessible, with results included when an error code is returned.
+- [mergeup testing: This is a retroactive addition from the master branch]
 
 ## [1.2.0]
 
