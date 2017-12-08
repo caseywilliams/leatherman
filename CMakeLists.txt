@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.2.2)
-project(leatherman VERSION 1.2.2)
+project(leatherman VERSION 1.2.3) # [mergeup testing: version from 1.2.x]
 
 if (WIN32)
     link_libraries("-Wl,--nxcompat -Wl,--dynamicbase")
